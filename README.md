@@ -50,24 +50,6 @@ Interactive Slicers
 
 Drill-through Navigation
 
-## 📷 Dashboard Preview
-
-Overview Analysis
-
-(Upload your screenshot here)
-
-Transactions Page
-
-(Upload your screenshot here)
-
-## 📂 Project Files
-
-Finance_Analytics.pbix – Power BI report file
-
-README.md – Project documentation
-
-Business_Requirements.pdf – Requirement document
-
 ## 👨‍💻 Author
 
 Komal Rai
